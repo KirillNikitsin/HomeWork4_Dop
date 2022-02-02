@@ -39,7 +39,7 @@ public class HomeWork4_Dop {
         int x;
         int y;
         do {
-            System.out.println("Введите координаты X Y.");
+            System.out.println("Введите координаты X Y");
             x = scanner.nextInt() - 1;
             y = scanner.nextInt() - 1;
         }
